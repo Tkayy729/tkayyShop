@@ -20,4 +20,26 @@ export const sliderItems = [
         desc:" DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "f5fafd",
     }
+];
+
+export const categories =[
+    {
+        id : 1,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmk4fryXPEzQHjKXEmhKOCZCaHauTQ4d-u7A&usqp=CAU",
+        title: "Tagooo"
+
+    },
+    {
+        id : 2,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmk4fryXPEzQHjKXEmhKOCZCaHauTQ4d-u7A&usqp=CAU",
+        title: "Long Sleeves Shirt"
+
+    },
+    {
+        id : 3,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmk4fryXPEzQHjKXEmhKOCZCaHauTQ4d-u7A&usqp=CAU",
+        title: "Short Sleeves Shirt"
+
+    },
+
 ]
