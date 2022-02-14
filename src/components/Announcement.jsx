@@ -15,7 +15,7 @@ const Container = styled.div`
 const Announcement = () => {
   return (
     <Container>
-      Super Deal this weekend with 50% Discount on all clothes
+   Super Deal! Free Shipping on Orders Over $50
     </Container>
   );
 };
